@@ -6,7 +6,7 @@ import glob, os
 import lsst.SConsUtils as scons
 
 env = scons.makeEnv("astrometry_net_data",
-                    r"$HeadURL:$",
+                    r"$HeadURL$",
                     [])
 
 # files with the following suffixes are considered data files
