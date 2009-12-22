@@ -1,0 +1,4 @@
+The astrometry_net USNOB index files are not freely redistributable, so you'll need to retrieve them yourself;
+see http://www.astrometry.net/use.html
+
+The files you need are named "indexFile" in metadata.paf
