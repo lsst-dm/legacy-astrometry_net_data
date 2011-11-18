@@ -1,5 +1,5 @@
-
-# /
-/.sconsign.dblite
-/config.log
-/.sconf_temp
+.sconsign.dblite
+config.log
+.sconf_temp
+*.cfgc
+python/lsst/astrometry/net/data/version.py
